@@ -287,7 +287,7 @@ git-tree-sha1 = "ad945c004763f544da4f80d7ea433625147c29d6"
 repo-rev = "codex/preserve-quarantine-observation"
 repo-url = "https://github.com/marcinb-pwr/MocosSim"
 uuid = "af72bc66-7bc2-4ee8-90df-e21de508fcd7"
-version = "1.0.0"
+version = "1.0.1"
 
 [[MozillaCACerts_jll]]
 uuid = "14a3606d-f60d-562e-9121-12d972cd8159"
