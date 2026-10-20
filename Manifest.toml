@@ -283,8 +283,8 @@ uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 
 [[MocosSim]]
 deps = ["CodecZlib", "DataFrames", "DataStructures", "Distributions", "FixedPointNumbers", "LinearAlgebra", "Random", "SaferIntegers", "Setfield", "SortingAlgorithms", "StaticArrays"]
-git-tree-sha1 = "793ab542ca33705762f8d52481608a39749d1d5b"
-repo-rev = "saxony_classes_infection_mod_alternative"
+git-tree-sha1 = "ad945c004763f544da4f80d7ea433625147c29d6"
+repo-rev = "codex/preserve-quarantine-observation"
 repo-url = "https://github.com/marcinb-pwr/MocosSim"
 uuid = "af72bc66-7bc2-4ee8-90df-e21de508fcd7"
 version = "1.0.0"
